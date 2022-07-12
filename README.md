@@ -1,5 +1,5 @@
 ### ▶️ Python Dasar
 
 ---
-
-Feel free to fork this repo
+- Python yang saya gunakan saat membuat code 3.7.10
+- Feel free to fork this repo
